@@ -1,6 +1,6 @@
 # MITRE ATT&amp;CK in CSV form
 
-[![Rebuild the CSV from the latest JSON data](https://github.com/sduff/mitre_attack_csv/actions/workflows/main.yml/badge.svg)](https://github.com/sduff/mitre_attack_csv/actions/workflows/main.yml)
+[![Rebuild the CSV from the latest JSON data](https://github.com/tree-chtsec/mitre_attack_csv/actions/workflows/main.yml/badge.svg)](https://github.com/tree-chtsec/mitre_attack_csv/actions/workflows/main.yml)
 
 Fetch the latest [MITRE ATT&CK &copy; Enterprise Techniques](https://raw.githubusercontent.com/mitre/cti/master/enterprise-attack/enterprise-attack.json), and convert this to a [CSV](https://raw.githubusercontent.com/sduff/mitre_attack_csv/main/enterprise-attack.csv), with a focus on data immediately useful for SIEM.
 
